@@ -4,7 +4,7 @@
 *.tgz
 
 # Ignore packages
-*.pkg.tar.xz
+*.pkg.tar*
 
 # Ignore log files
 *.log
